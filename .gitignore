@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+deportebase
+deporteBase
+db.sqlite3
+.DS_Store
